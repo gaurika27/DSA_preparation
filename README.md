@@ -25,15 +25,7 @@ This repository contains my personal collection of solved DSA problems, grouped 
 
 ## 📌 Companies Covered
 
-- [] Google  
-- [] Amazon  
-- [] Microsoft  
-- [] Adobe  
-- [] Meta  
-- [] Flipkart  
-- [] Samsung  
-- [] Bloomberg  
-... *(and more as I go)*
+
 
 ---
 
