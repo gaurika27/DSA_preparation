@@ -38,5 +38,5 @@ Stay consistent. Stay sharp. Stay ready. 💪
 
 ## 🌸 Author
 
-**Gauri Sharma**  
-📍 ECE @ NIT Hamirpur | DSA 💻 | ML & Systems Enthusiast  
+**Gaurika Sharma**  
+📍  NIT Hamirpur | DSA 💻 | ML Enthusiast  
